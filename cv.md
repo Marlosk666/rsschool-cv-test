@@ -5,7 +5,7 @@ junior fronted developer
 ### Contacts
 * Email: jazsoul8@gmail.com
 * Phone: +79112191348
-* GitHub: [Marlosk666]
+* GitHub: [Marlosk666] (https://github.com/Marlosk666)
 
 ### About me 
 I am a team player with nice soft skills. I can build processes within the team, and also with related departments. Proactive in
